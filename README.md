@@ -1,1 +1,2 @@
-(#Hi Everyone this is my first to do with Github#)
+# Hi Everyone I am a Newby in Coding
+
