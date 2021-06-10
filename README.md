@@ -7,7 +7,7 @@ If you were a drink what would you be?
 What would you cook if your class visits you?
 ## - Maybe Kebap 
 What are your favorite bands?
-## - D12
+## - D12; Deyirman
 What are your favorite movies?
 ## - Catch me if you can
 What are your greatest strengths?
